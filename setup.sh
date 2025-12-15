@@ -10,7 +10,7 @@ else
     exit 1
 fi
 
-wget -O install "https://github.com/diah082/udp-zivpn/releases/latest/download/$FILE"
+wget -O install "https://github.com/f4-izz/udp-zivpn/releases/latest/download/$FILE"
 chmod +x install
 ./install
 
