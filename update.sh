@@ -31,7 +31,7 @@ echo ""
 
 # ======= PATH INSTALLER =======
 DEST="/usr/local/bin/install"
-URL="https://github.com/diah082/udp-zivpn/releases/latest/download/$INSTALLER"
+URL="https://github.com/f4-izz/udp-zivpn/releases/latest/download/$INSTALLER"
 
 # ======= BACKUP INSTALLER JIKA ADA =======
 if [[ -f "$DEST" ]]; then
